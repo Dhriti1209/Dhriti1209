@@ -16,7 +16,7 @@
 
 💫 **About Me**
 
-- 🎓 BTech CSE @ Manipal University Jaipur  
+- 🎓 BTech CSE AIML  @ Manipal University Jaipur  
 - 💖 Exploring the world of Artificial Intelligence & Web Development  
 - ✨ Passionate about building aesthetic & functional web apps  
 - 🌈 Learning AWS, TailwindCSS, and scalable backend systems  
