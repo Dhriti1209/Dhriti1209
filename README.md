@@ -20,7 +20,7 @@
 - 💖 Exploring the world of Artificial Intelligence & Web Development  
 - ✨ Passionate about building aesthetic & functional web apps  
 - 🌈 Learning AWS, TailwindCSS, and scalable backend systems  
-- 💗 Co-Lead Marketing @ GDG MUJ 
+- 💗 Lead Marketing @ GDG MUJ 
 
 ---
 
