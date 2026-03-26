@@ -55,10 +55,10 @@
 
 🌟 **Current Projects**
 
-🎀 **Web-to-PDF Generator**  
-🧩 A full-stack app using Puppeteer, RabbitMQ, Tailwind & React  
-📂 Frontend + Backend + PDF Queue + MinIO Storage  
-[![View Project](https://img.shields.io/badge/View_Project-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhriti1209/url-to-pdf-generator)
+🎀 **Smart Productivity System**  
+🧠 A full-stack AI-powered system for productivity tracking & burnout prediction  
+📊 Daily Logs + Behavioral Analytics + ML Insights + Dashboard  
+[![View Project](https://img.shields.io/badge/View_Project-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhriti1209/smart-productivity-system)
 
 ---
 
