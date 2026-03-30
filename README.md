@@ -1,7 +1,7 @@
 <!-- Dhriti Joshi | Pink Themed GitHub README -->
 
 <h1 align="center">Hi, I'm <span style="color:#ff69b4;">Dhriti Joshi</span> 🌸</h1>
-<h3 align="center">AI & ML Enthusiast 💻 | Frontend Developer 🎨 | Cloud Learner ☁️</h3>
+<h3 align="center">AI & ML Enthusiast 💻 | Full-Stack Developer 🎨 | Cloud Learner ☁️</h3>
 
 <div align="center">
   
